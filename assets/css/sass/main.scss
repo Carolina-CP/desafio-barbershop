@@ -1,0 +1,22 @@
+@import "abstracts/variables";
+@import "abstracts/mixins";
+
+@import "base/reset";
+
+
+@import "components/navbar";
+@import "components/buttons";
+@import "components/card";
+@import "components/paginator";
+
+@import "layout/article";
+@import "layout/footer";
+@import "layout/header";
+@import "layout/mainsection";
+
+@import "pages/about";
+@import "pages/footer";
+@import "pages/home";
+@import "pages/blog";
+
+@import "vendors/scss/bootstrap";
